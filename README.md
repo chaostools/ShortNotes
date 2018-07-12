@@ -5,12 +5,16 @@
 # Short Notes
 One of my very first attempt at learning databases in android .Took me weeks to complete 😅 . This project used the latest room persistance library and Viewmodel/livedata components from Google.
 ## Screen-Shots
+
 <p align=center>
-  <img src="https://github.com/chaostools/Baby-Browser/blob/master/Snaps/snap_1.png" width="250" height 600 />  
-  <img src="https://github.com/chaostools/Baby-Browser/blob/master/Snaps/snap_4.png" width="250" height 600 />  
-  <img src="https://github.com/chaostools/Baby-Browser/blob/master/Snaps/snap_5.png" width="250" height 600 />  
-  <img src="https://github.com/chaostools/Baby-Browser/blob/master/Snaps/snap_3.png" width="250" height 600 />  
-  <img src="https://github.com/chaostools/Baby-Browser/blob/master/Snaps/snap_2.png" width="250" height 600 />  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350" />  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350" />  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350" />  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
+  
 </p>
 
 ## Features:
