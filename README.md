@@ -7,13 +7,13 @@ One of my very first attempt at learning databases in android .Took me weeks to 
 ## Screen-Shots
 
 <p align=center>
-  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-59-18.png" width="350"/>  
   <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350" />  
-  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
-  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350" />  
-  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
-  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350" />  
-  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-27.png" width="350"/>  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-58-48.png" width="350"/>  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-59-34.png" width="350" />  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-51-36.png" width="350"/>  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-59-23.png" width="350" />  
+  <img src="https://github.com/chaostools/ShortNotes/blob/master/ShortNotes/Screenshot_2017-12-28-22-59-49.png" width="350"/> 
   
 </p>
 
