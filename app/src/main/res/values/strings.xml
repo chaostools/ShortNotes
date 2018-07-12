@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Short Notes</string>
+    <string name="introtext">
+        Welcome to Short Notes!
+        Got on idea? note it down!!
+        press the \'+\' icon to begin
+        hint: long press to delete ;)
+    </string>
+    <string name="sampledata">hello kitti kitti kitii kitti kitti  kiitiello kitti kitti
+        kitii kitti kitti  kiitiello kitti kitti kitii kitti kitti  kiitiello kitti kitti kitii
+        kitti kitti  kiitiello kitti kitti</string>
+    <string name="testString">life   is so   cracked   upupupupuplife   is so   cracked   upupupupuplife   is so   cracked   upupupupuplife   is so   cracked   upupupupuplife   is so   cracked   upupupupup</string>
+    <string name="github"><a href="github.com/chaostools">github</a></string>
+    <string name="linkedin"><a href="https://www.linkedin.com/in/anshsachdevaprofessional">linkedin</a></string>
+
+
+    <string name="license_lLifecycle_components">
+        \t Copyright (C) 2011 The Android Open Source Projec \n
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at\n\t
+    http://www.apache.org/licenses/LICENSE-2.0
+
+\nUnless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License
+
+    </string>
+
+    <string name="app_icon_license">
+        http://cliparts101.com/free_clipart/10471/Thumbtack_note_blank
+    </string>
+    <string name="note_icon_license">
+        CC0 1.0 Universal (CC0 1.0)Public Domain Dedication\n
+        The person who associated a work with this deed has dedicated the work to
+        the public domain by waiving all of his or her rights to the work worldwide
+        under copyright law, including all related and neighboring rights, to the extent
+        allowed by law.\n
+        You can copy, modify, distribute and perform the work, even for commercial purposes,
+        all without asking permission. See Other Information @ http://maxpixel.freegreatpicture.com
+    </string>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="options menu"
+        app:showAsAction="always"
+        android:icon="@drawable/garbage_3_dots"
+
+        >
+        <menu>
+        <item
+            android:id="@+id/menu_main_settings"
+            app:showAsAction="never"
+            android:title="Settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            />
+
+        <item
+            android:id="@+id/menu_main_sync"
+            app:showAsAction="never"
+            android:title="sync"
+            android:icon="@drawable/ic_sync_black_24dp"
+            />
+        <item
+            android:id="@+id/menu_main_about"
+            app:showAsAction="never"
+            android:title="about"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            />
+        </menu>
+
+
+    </item>
+
+
+
+</menu>
